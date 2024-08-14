@@ -1,0 +1,5 @@
+2024-08-14 20:27:35.871 INFO app - <module>: Connected to CAMPUS WI-FI
+2024-08-14 20:27:36.503 INFO app - <module>: Already Logged in
+2024-08-14 20:32:45.286 INFO app - <module>: Connected to CAMPUS WI-FI
+2024-08-14 20:32:46.287 INFO app - <module>: Already Logged in
+2024-08-14 20:35:13.590 ERROR app - <module>: Not Connected to CAMPUS WI-FI-1
